@@ -1,0 +1,109 @@
+/* * {
+    background-color: gray;
+} */
+
+h1, h2 {
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+h2 {
+    text-decoration: underline;
+}
+
+h3 {
+    width: 96%;
+    height: 96%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h4 {
+    width: 92%;
+    height: 92%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p {
+    width: 88%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img {
+    border-radius: 5%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    opacity: 0.7;
+}
+
+body {
+    width: 50%;
+    margin: auto;
+}
+
+.block {
+    display: block;
+    background-color: #00000000;
+}
+
+.centered {
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+    text-align: center;
+}
+
+.circular {
+    border-radius: 100%;
+}
+
+.columned {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.narrow {
+    width: 30%;
+}
+
+.circular-gradient {
+    background: radial-gradient(#99CC80, #606060, #200020);
+}
+
+.solid-backcolor {
+    background-color: #AAAAAA20;
+}
+
+.text-color-inverted {
+    color: #DDDDDD;
+    mix-blend-mode: difference;
+}
+
+.text-color-normal {
+    color: #604060;
+    mix-blend-mode: difference;
+}
+
+.text-color-special {
+    color: #D0B0D0;
+    mix-blend-mode: difference;
+}
+
+.ingredients {
+    width: 90%;
+    border-radius: 20px;
+    padding: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.steps {
+    width: 90%;
+    border-radius: 20px;
+    padding: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
